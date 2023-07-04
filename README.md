@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theritz
-- 👀 I’m interested in datasci, astronomy, offroad cycling, music
-- 🌱 I’m currently learning ETL w/SQL, pandas, python etc.
+- 👀 I’m interested in datasci, astronomy, gravel & MTB cycling, outdoors, photography, music (making & listening)
+- 🌱 I’m currently focused on data wrangling w/SQL, pandas, python etc.
 
 <!---
 theritz/theritz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
