@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @theritz, hailing from The Netherlands.
-- 👀 I’m interested in datasci, astronomy, all kinds of cycling, the great outdoors, (digital & analog) photography, Eurorack, listening to music (digital & analog ^_^ ).
-- 🌱 I’m currently working as a data specialist building ETL/ELT pipelines using Python & T-SQL.
+# Welcome to TheRitz 👋 
 
-# Welcome to TheRitz
-
-I'm a technical data specialist with a broad IT experience. 
-
+I'm a technical data specialist with a broad IT experience and employed as a data specialist building ETL/ELT pipelines using Python & T-SQL.
 
 <details>
 <summary>
@@ -14,16 +9,16 @@ I'm a technical data specialist with a broad IT experience.
 
 ## Quick overview
 
-### Work activities
+### Work activities 
 
 I do Open Source. In fact, I do Open Source so much, that 95% of my work on
 GitHub is free and open to everyone. I am really passionate about doing web
 development, it is in my opinion the best combination of logical programming and
 (sometimes) beautiful design.
 
-### Personal activities
+### Personal activities 👀
 
-I like astronomy, eurorack, gravel-/mountain-/trail cycling, photography and music and spend quite a lot of time juggling these hobbies ^_^ 
+I’m interested in datasci, astronomy, all kinds of cycling, the great outdoors, (digital & analog) photography, Eurorack, listening to music (digital & analog ^_^ ).
 
 ## My skills 📜
 
@@ -73,7 +68,7 @@ I like astronomy, eurorack, gravel-/mountain-/trail cycling, photography and mus
 | French | B1
 | Dutch         | Native language                                                      |
 
-## What I'm currently working on 📚
+## What I'm currently working on 🌱
 
 - Data pipeline orchestration
 - Upping my Python & T-SQL programming skills
