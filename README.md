@@ -1,6 +1,7 @@
 # Welcome to TheRitz 👋 
 
-I'm a technical data specialist with a broad IT experience employed as a data specialist building ETL/ELT pipelines using Python & T-SQL.
+I'm a technical data specialist with a broad IT experience and employed as a data specialist building ETL/ELT pipelines using Python & T-SQL.
+
 
 <details>
 <summary>
@@ -11,10 +12,9 @@ I'm a technical data specialist with a broad IT experience employed as a data sp
 
 ### Work activities 
 
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing web
-development, it is in my opinion the best combination of logical programming and
-(sometimes) beautiful design.
+I work for a local municipality in The Netherlands as a junior technical data specialist with 25 years of broad IT experience in all kinds of jobs. So I can get along on a lot of topics by now.
+
+Today my focus is on getting real good at what I am now a junior at and putting my senior skills to good use at the same time. This means learn to program properly and set up a good development and operations environment at the same time.
 
 ### Personal activities 👀
 
@@ -73,8 +73,3 @@ I’m interested in datasci, astronomy, all kinds of cycling, the great outdoors
 - Data pipeline orchestration
 - Upping my Python & T-SQL programming skills
 - Privacy and security legislation
-
-<!---
-theritz/theritz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
