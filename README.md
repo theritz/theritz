@@ -1,6 +1,6 @@
 # Welcome to TheRitz 👋 
 
-I'm a technical data specialist with a broad IT experience and employed as a data specialist building ETL/ELT pipelines using Python & T-SQL.
+I'm a technical data specialist with a broad IT experience employed as a data specialist building ETL/ELT pipelines using Python & T-SQL.
 
 <details>
 <summary>
