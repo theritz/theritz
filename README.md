@@ -58,7 +58,7 @@ I’m interested in datasci, astronomy, all kinds of cycling, the great outdoors
 - Windows Server OS
 - Linux OS
 - MacOS
-- Storage Management (Dell EMC)
+- Storage Management
 
 ### Languages 🌐
 
