@@ -18,7 +18,7 @@ Today my focus is on getting real good at what I am now a junior at and putting 
 
 ### Personal activities 👀
 
-I’m interested in datasci, astronomy, all kinds of cycling, the great outdoors, (digital & analog) photography, Eurorack, listening to music (digital & analog ^_^ ).
+I’m interested in datasci, astronomy, all kinds of cycling, the great outdoors, (digital & analog) photography, synthesizers, listening to music (digital & analog ^_^ ).
 
 ## My skills 📜
 
@@ -27,17 +27,18 @@ I’m interested in datasci, astronomy, all kinds of cycling, the great outdoors
 - Python
 - T-SQL
 - PostgreSQL
+- Oracle SQL
 - Azure DevOps
-- Powershell
-- Machine Learning
-- GDPR & BIO
+- basic Powershell
+- datasci, Machine Learning
+- AVG (a.k.a. GDPR) & VNG BIO
 
 ### Competences
 - Solving complex problems
 - Documentation
 - Standardisation of processes 
 - Finding the right people
-- Motivating a team
+- Inspiring a team
 - Creativity
 
 ### Other IT-related
