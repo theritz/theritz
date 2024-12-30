@@ -54,6 +54,7 @@ I’m interested in datasci, astronomy, all kinds of cycling, the great outdoors
 	* Business Analysis
 - Project management
 - Storage Management
+- Operations
 - Business Continuity Management
 - Windows Server OS
 - Linux OS
