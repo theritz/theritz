@@ -68,10 +68,11 @@ I’m interested in datasci, astronomy, all kinds of cycling, the great outdoors
 | English | C2                  |
 | German        | B2 |
 | French | B1
-| Dutch         | Native language                                                      |
+| Dutch         | native speaker                                                      |
 
 ## What I'm currently working on 🌱
 
-- Data pipeline orchestration
+- Selecting a new data platform for our organisation
 - Upping my Python & T-SQL programming skills
-- Privacy and security legislation
+- Privacy and Security
+- PowerBI in the Cloud back-end support
