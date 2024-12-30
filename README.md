@@ -12,7 +12,7 @@ I'm a technical data specialist with a broad IT experience and employed as a dat
 
 ### Work activities 
 
-I work for a local municipality in The Netherlands as a junior technical data specialist with 25 years of broad IT experience in all kinds of jobs. So I can get along on a lot of topics by now.
+I work for a municipality in The Netherlands as a junior technical data specialist with 25 years of broad IT experience in all kinds of jobs. So I can get along on a lot of topics by now.
 
 Today my focus is on getting real good at what I am now a junior at and putting my senior skills to good use at the same time. This means learn to program properly and set up a good development and operations environment at the same time.
 
